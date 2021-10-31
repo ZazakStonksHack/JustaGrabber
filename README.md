@@ -17,12 +17,12 @@
 
 ### ❗ About modules
 JustaGrabber dosen't needs any other modules. 
-Just need python 3's internal module!
+Just need python 3's internal module! (os, re, json, urllib.request)
  
-### 📁
-1. Start off by installing [python](https://www.python.org/) ofc
-2. run the `Install_requirements.cmd` and wait for it to install the requirements
-3. open main.py with any code editor of your choice and paste your webhook on line 7
+### 📁 How to use
+1. Download python 3 at [python.org](https://python.org). Must be 3.x.x
+2. Open "JustaGrabber.py" with any code editor.
+3. Replace 
 4. additionally [compile](https://github.com/Rdimo/Hazard-Token-Grabber-V2#compiling-source-code) it 
 5. send exe to your victims 😈
 
