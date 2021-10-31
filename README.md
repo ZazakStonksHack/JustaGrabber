@@ -22,9 +22,8 @@ Just need python 3's internal module! (os, re, json, urllib.request)
 ### 📁 How to use
 1. Download python 3 at [python.org](https://python.org). Must be 3.x.x
 2. Open "JustaGrabber.py" with any code editor.
-3. Replace 
-4. additionally [compile](https://github.com/Rdimo/Hazard-Token-Grabber-V2#compiling-source-code) it 
-5. send exe to your victims 😈
+3. Replace Your webhook in line 3
+4. send exe to your victims 😈
 
 ### ⚙・Compiling Source Code
 Start of by opening a cmd in your directory and type:
