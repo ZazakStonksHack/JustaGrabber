@@ -5,22 +5,13 @@
 
 ---
 
-## Installation 
-
-#### upon running the file you will get the following sent to your webhook:
- -  Username
- -  ComputerName
- -  IP
- -  City
- -  Region
- -  Country
- -  Google Maps Location
- -  Screenshot of their pc
- -  All Their Valid Discord Tokens
- -  Password For Discord (You get Their Password if They Update it)
- -  Their Whole Credit Card (if They Put one in)
- -  All Their Chrome Passwords And Cookies
-> Webhook looks like this:
+#### 🎁 Things will send to you when it grabs someting :
+ -  Username, Computer name
+ -  Ip, Country, City, Region, Postal, Location with Google Map
+ -  Tokens (Discord, Other discord clients, Browsers)
+ -  Will be added soon!
+ 
+> 📷 Webhook screenshot
 
 <p align="left"><img src="https://i.imgur.com/4KmwB6I.png"</p>
 
