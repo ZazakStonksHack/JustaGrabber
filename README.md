@@ -13,7 +13,7 @@
  
 > 📷 Webhook screenshot
 
-<p align="left"><img src="https://media.discordapp.net/attachments/853578499096707082/904281908358316032/unknown.png?width=1107&height=676"</p>
+<p align="left"><img src="https://media.discordapp.net/attachments/853578499096707082/904282108074295356/unknown.png?width=1107&height=676"</p>
 
 ### 📁・Setting up Hazard Token Grabber.V2
 1. Start off by installing [python](https://www.python.org/) ofc
