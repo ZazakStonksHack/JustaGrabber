@@ -1,3 +1,10 @@
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/kldiscord/JustaGrabber?style=flat-square" </a>
+<img src="https://img.shields.io/github/last-commit/kldiscord/JustaGrabber?style=flat-square" </a>
+<img src="https://img.shields.io/github/stars/kldiscord/JustaGrabber?color=%23daff00&label=Stars&style=flat-square" </a>
+<img src="https://img.shields.io/github/forks/kldiscord/JustaGrabber?color=%23daff00&label=Forks&style=flat-square" </a>
+</p>
+
 <h1 align="center">🎄 JustaGrabber - A discord token grabber written in python3<h1>
 <h3 align="center">🎇 Made by kldiscord https://github.com/kldiscord<h3>
 
