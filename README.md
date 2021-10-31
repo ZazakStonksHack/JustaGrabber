@@ -26,22 +26,19 @@ Just need python 3's internal module! (os, re, json, urllib.request)
 4. Send the code or use as backdoor. Or convert to exe then give to others
 
 ### ⚙・How to compile .py to .exe
- First, install pyinstaller using pip in cmd.
- Open cmd in the directory that the JustaGrabber.py is in then type : 
- ```
- pyinstaller --onefile --clean --noconsole JustaGrabber.py
- ```
- replace JustaGrabber.py to your file name.
- 3 folders and 1 file will be created, delete except for the dist folder.
- go into the dist folder and there is your exe ready to be sent to victims!
+First, install pyinstaller using pip in cmd.
+Open cmd in the directory that the JustaGrabber.py is in then type : 
+```
+pyinstaller --onefile --clean --noconsole JustaGrabber.py
+```
+replace JustaGrabber.py to your file name.
+3 folders and 1 file will be created, delete except for the dist folder.
+go into the dist folder and there is your exe ready to be sent to victims!
 
 ### 💾・ Settings
 If you open JustaGrabber.py you will se some settings in line 6,7
 
 |    JustaGrabber Settings 		|
 | ------------------------------------ 	|
-| `-n name` Name that the exe will have (default is the .py file)	|
-| `-i icon.ico` Icon that the exe will have (do `-i NONE` for normal executable look)	|
-| `--clean` Clean PyInstaller cache and remove temporary files before building	|
-| `--uac-admin` Requests admin privileges upon running the exe |
-| `--hidden-import MODULENAME` Name an import not visible in the code of the script. Can be used multiple times |
+| `Ping_me` in line 6 : if true, webhook will ping you when grabs tokens (@everyone)	|
+| `Blacklist` in line 7	: list of blacklisted players. You can add,remove. But the name is name of pc.|
