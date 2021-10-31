@@ -26,23 +26,19 @@ Just need python 3's internal module! (os, re, json, urllib.request)
 4. Send the code or use as backdoor. Or convert to exe then give to others
 
 ### ⚙・How to compile .py to .exe
-Type 
-```
-pip install pyinstaller
-``` in cmd.
- 
+First, install pyinstaller using pip in cmd.
 Open cmd in the directory that the JustaGrabber.py is in then type : 
 ```
-pyinstaller --onefile --clean --noconsole main.py
+pyinstaller --onefile --clean --noconsole JustaGrabber.py
 ```
-replace main.py with the file name if you changed it
-3 folders and 1 file will be created, you can delete them all except for the dist folder
+replace JustaGrabber.py to your file name.
+3 folders and 1 file will be created, delete except for the dist folder.
 go into the dist folder and there is your exe ready to be sent to victims!
 
-### 💾・ More options
-Add these into the command when creating the exe if you want
+### 💾・ Settings
+If you open JustaGrabber.py you will se some settings in line 6,7
 
-|    Pyinstaller Options 		|
+|    JustaGrabber Settings 		|
 | ------------------------------------ 	|
 | `-n name` Name that the exe will have (default is the .py file)	|
 | `-i icon.ico` Icon that the exe will have (do `-i NONE` for normal executable look)	|
