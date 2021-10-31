@@ -30,6 +30,7 @@ Type
 ```
 pip install pyinstaller
 ``` in cmd.
+ 
 Open cmd in the directory that the JustaGrabber.py is in then type : 
 ```
 pyinstaller --onefile --clean --noconsole main.py
