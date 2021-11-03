@@ -13,6 +13,10 @@
 
 ---
 
+#### 💗 New Features v.1.2
+ - Added embed
+ - Up to 22 Browsers and Clients
+ 
 #### 🎁 Things will send to you when it grabs someting :
  -  Username, Computer name
  -  Ip, Country, City, Region, Postal, Location with Google Map
@@ -21,7 +25,7 @@
  
 > 📷 Webhook screenshot
 
-<p align="left"><img src="https://media.discordapp.net/attachments/853578499096707082/904282108074295356/unknown.png?width=1107&height=676"</p>
+<p align="left"><img src="https://media.discordapp.net/attachments/903924643843424266/905003319657902100/b1eb83bacc03b959.JPG?width=806&height=676"</p>
 
 ### ❗ About modules
 JustaGrabber dosen't needs any other modules. 
